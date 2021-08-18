@@ -1,0 +1,139 @@
+progression:
+wood: oak >> birch >> cedar >> pine >> fir >> magic oak
+ore: rock >> silver >> gold >> diamond >> palladium >> obsidinite
+
+tools:
+	wooden axe
+	wooden sword
+	wooden pick
+
+	fishing rod
+
+	silver axe
+	silver sword
+	silver pick
+
+	gold axe
+	gold sword
+	gold pick
+
+	diamond axe
+	diamond sword
+	diamond pick
+
+	palladium axe
+	palladium sword
+	palladium pick
+
+	obsidinite axe
+	obsidinite sword
+	obsidinite pick
+
+	totem of immortlity
+	totem of fighting
+	totem of riches
+items:
+	oak wood
+	birch wood
+	cedar wood
+	pine wood
+	fir wood
+	magical wood
+
+	rock
+
+	silver ore
+	smelted silver
+
+	gold ore
+	smelted gold
+
+	diamond ore
+	smelted diamond
+
+	palladium dust
+	palladium ore
+	smelted palladium
+
+	obstinite brick
+	refined obstinite
+	
+	string
+	vine
+	web
+
+	charcoal
+	flint
+	
+	honey
+	feather
+	raw beef
+	raw lamb
+	raw rabbit
+	raw fish
+	cooked meat
+	mushroom
+	raw toad legs
+	seaweed
+	bread
+
+	treasure map
+
+	slime
+	seaweed
+	bamboo
+	skull
+	stick
+	shell
+	moss
+
+	snorkel
+	paper
+	bowl
+	
+
+animals
+	chicken
+	cow
+	sheep
+	rabbit
+	fish
+	boar
+	camel
+	bees(beehive)
+	spider(string)
+	toad
+
+enemies
+	goblin
+	witch
+	skelton
+	ice golem
+	frog goblin
+	rock golem
+npcs
+
+biomes
+common
+	forest
+	desert
+	plains
+	ocean
+	mountain
+rare
+	swamp
+	arctic
+	jungle
+magical
+	magical forest
+	netherworld
+
+forest:
+	resources: 
+		oak tree
+		birch tree
+        rock
+        silver
+
+        spiders
+        bees

@@ -1,0 +1,9 @@
+list of commands
+harvest [arg] : harvest the resource if in the biome
+craft [arg] : crafts and item if all the resources are posessed
+inventory : open in the inventory
+move [arg] : moves in the direction specified
+fight [arg] : fight the enemy if the enemy is currently spawned
+talk [arg] : talk to an npc if the npc is currently spawned
+enter [arg] : enters a landmark if currently spawned
+

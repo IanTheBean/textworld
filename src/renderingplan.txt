@@ -1,0 +1,32 @@
+rules: each render of a new biome must trigger two or more sense
+    smell
+    sound
+    emotional-feel
+
+   forest's key points: trees, leaves moss covered logs, rocks (we cannot describe something that cannot be intereacted with)
+
+render path for forest
+each grid point has a list of sounds, smells, or sights with a requirement for
+this pattern, as well as a hint for one of the two distance
+
+there can be multiple sentance structures?
+
+sample number 1)
+
+things to render:
+Biome:
+    forest
+Resources:
+    3 oak trees
+    beehive
+    log
+    toad
+north: arctic
+east forest
+west forest
+south desert
+facing east
+
+As you walk, the buzzing of bees and the load croaks of a brave little green toad does little to distract you from the sweet aroma of damp moss, resting on a rotting log. Three large oak trees provide suitable shade from the red afternoon sun.
+             [--- beehive -----]     [--- toad ---------------------------------]                                  [--- log --------------------------------------------]  [--- 3 oak trees ------------------------------------------------------]
+Sentence structure: As you walk, [[sound] and [sound]] does little to distract you from the [smell]. [sight]
